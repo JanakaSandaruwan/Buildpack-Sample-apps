@@ -1,1 +1,1 @@
-web:java com.test.PrintNumbers
+web:java -cp . com.test.PrintNumbers
