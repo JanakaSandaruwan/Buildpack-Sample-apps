@@ -1,1 +1,1 @@
-web:java PrintNumbers
+web:java com.test.PrintNumbers
