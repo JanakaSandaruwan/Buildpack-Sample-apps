@@ -1,1 +1,0 @@
-web:java -cp . com.test.PrintNumbers
