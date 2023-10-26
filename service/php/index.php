@@ -1,7 +1,9 @@
 <?php
 require 'vendor/autoload.php';
 
-$app = new \Slim\App();
+use Slim\Factory\AppFactory;
+
+$app = AppFactory::create();
 
 // Define a route
 $app->get('/tasks', function ($request, $response, $args) {
