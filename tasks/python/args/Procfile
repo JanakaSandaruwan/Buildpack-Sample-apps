@@ -1,1 +1,1 @@
-web: python main.py arg1
+web: python
